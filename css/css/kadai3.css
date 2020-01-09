@@ -1,0 +1,35 @@
+h1{
+    color:red;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color:red;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+   background-color: aqua
+}
+h3{
+    color:red;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: "left";
+}
+p{
+    color:black;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: "left";
+}
+body{
+    background-image:url("../images/image1.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}

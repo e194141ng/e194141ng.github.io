@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color:red;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+   background-color: aqua
+}
+body{
+    background-image:url("../images/image1.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+table{
+    background-color: antiquewhite;
+}
+ol{
+    background-image:url("../images/image2.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
